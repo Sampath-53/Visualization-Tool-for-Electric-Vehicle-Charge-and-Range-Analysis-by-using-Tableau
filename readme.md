@@ -1,0 +1,3 @@
+***Visualization-Tool-for-Electric-Vehicle-Charge-and-Range-Analysis***
+
+This project is developed using Tableau Public, a data visualization tool used to represent data in the form of interactive charts and dashboards. The dataset can be created and managed using MySQL, while data preprocessing and modification can be performed using Tableau Prep to ensure data accuracy and consistency before visualization. Although Tableau Desktop offers more advanced analytical and visualization features compared to Tableau Public, it is a licensed software. Therefore, Tableau Public is utilized in this project as a free and accessible alternative, providing sufficient functionality to develop effective and meaningful visualizations.
